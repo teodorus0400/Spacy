@@ -1,524 +1,460 @@
-"E:/epic/project/MyProject3/Content/astronaut/PS_AmbientDust.uasset" 0
-"E:/epic/project/MyProject3/Content/astronaut/Geometry/Meshes/CubeMaterial.uasset" 1
-"E:/epic/project/MyProject3/Content/astronaut/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2
-"E:/epic/project/MyProject3/Content/astronaut/Geometry/Meshes/TemplateFloor.uasset" 3
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 4
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/walk/walking_Skeleton.uasset" 5
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/idle/astronaut_idle.uasset" 6
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/run/running.uasset" 7
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/walk/walking_Anim.uasset" 8
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/walk/BLend_astro.uasset" 9
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/walk/Animate.uasset" 10
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/material/AmbientOcclusionMap.uasset" 11
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/material/Color.uasset" 12
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/material/Material_Roughness_001.uasset" 13
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/material/Material_Specular.uasset" 14
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/material/NormalMap.uasset" 15
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/material/Material.uasset" 16
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/walking_PhysicsAsset.uasset" 17
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/walking.uasset" 18
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/Astronaut1.uasset" 19
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/material/Colo2r.uasset" 20
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/material/Material2.uasset" 21
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/walking2.uasset" 22
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/Astronaut2.uasset" 23
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/material/Color3.uasset" 24
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/material/Material3.uasset" 25
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/walking3.uasset" 26
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/Astronaut3.uasset" 27
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 28
-"E:/epic/project/MyProject3/Content/astronaut/End_of_Demo.uasset" 29
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/CharSel.uasset" 30
-"E:/epic/project/MyProject3/Content/astronaut/mesh/CharSel.uasset" 31
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/material/SpecularMap.uasset" 32
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Dust_Particle_D.uasset" 33
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset" 34
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/P_Ambient_Dust.uasset" 35
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Fire_SubUV.uasset" 36
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" 37
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset" 38
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 39
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset" 40
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" 41
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" 42
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset" 43
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/P_Fire.uasset" 44
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/P_Smoke.uasset" 45
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 46
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 47
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 48
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset" 49
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset" 50
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset" 51
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset" 52
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset" 53
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 54
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 55
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 56
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 57
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 58
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Bush_D.uasset" 59
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Bush_N.uasset" 60
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset" 61
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset" 62
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Chair_M.uasset" 63
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Chair_N.uasset" 64
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Checker_Noise_M.uasset" 65
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 66
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 67
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 68
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset" 69
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset" 70
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 71
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 72
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 73
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset" 74
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset" 75
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset" 76
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset" 77
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset" 78
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset" 79
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset" 80
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset" 81
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 82
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset" 83
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Door_M.uasset" 84
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Door_N.uasset" 85
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Frame_M.uasset" 86
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Frame_N.uasset" 87
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Gradinet_01.uasset" 88
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ground_Grass_D.uasset" 89
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ground_Grass_N.uasset" 90
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset" 91
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset" 92
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_ground_Moss_D.uasset" 93
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ground_Moss_N.uasset" 94
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Lamp_M.uasset" 95
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Lamp_N.uasset" 96
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_MacroVariation.uasset" 97
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset" 98
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Copper_D.uasset" 99
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Gold_D.uasset" 100
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Gold_N.uasset" 101
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Rust_D.uasset" 102
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Rust_N.uasset" 103
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Steel_D.uasset" 104
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Steel_N.uasset" 105
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset" 106
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_RockMesh_M.uasset" 107
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_RockMesh_N.uasset" 108
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset" 109
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset" 110
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 111
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset" 112
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset" 113
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Slate_D.uasset" 114
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Slate_N.uasset" 115
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 116
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Shelf_M.uasset" 117
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Shelf_N.uasset" 118
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Single_Tile_N.uasset" 119
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Statue_M.uasset" 120
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Statue_N.uasset" 121
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_TableRound_M.uasset" 122
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_TableRound_N.uasset" 123
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Tech_Dot_M.uasset" 124
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Tech_Dot_N.uasset" 125
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 126
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 127
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Tech_Panel_M.uasset" 128
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Tech_Panel_N.uasset" 129
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Water_M.uasset" 130
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Water_N.uasset" 131
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 132
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 133
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 134
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Oak_D.uasset" 135
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Oak_N.uasset" 136
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Pine_D.uasset" 137
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Pine_N.uasset" 138
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset" 139
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset" 140
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/materials/M_LightGlow.uasset" 141
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/m_flare_03.uasset" 142
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/M_Pixel_Cube_Particle.uasset" 143
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/M_Radial_Gradient.uasset" 144
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/endlessMat/T_Space.uasset" 145
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/endlessMat/T_Space_Mat.uasset" 146
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/endlessMat/T_sunflare.uasset" 147
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/enemies/Shake_B.uasset" 148
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/enemies/Shake_S.uasset" 149
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/endlessMat/M_Glow.uasset" 150
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/endlessMat/M_Glow_projectile1_player.uasset" 151
-"E:/epic/project/MyProject3/Content/astronaut/Geometry/Meshes/1M_Cube.uasset" 152
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_projectile_playerbase.uasset" 153
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_projectile_1.uasset" 154
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_projectile_2.uasset" 155
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/SPC_Cont.uasset" 156
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/GameWon.uasset" 157
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/Tutorial.uasset" 158
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/WidgetSPC.uasset" 159
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_space_GM.uasset" 160
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Burst_M.uasset" 161
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_Burst.uasset" 162
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Explosion_SubUV.uasset" 163
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset" 164
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/m_flare_01.uasset" 165
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset" 166
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/P_Explosion.uasset" 167
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/GameOver.uasset" 168
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/Shot.uasset" 169
-"E:/epic/project/MyProject3/Content/part2/spaceship_pawn/pixil-frame-0.uasset" 170
-"E:/epic/project/MyProject3/Content/part2/spaceship_pawn/Material.uasset" 171
-"E:/epic/project/MyProject3/Content/part2/spaceship_pawn/nav.uasset" 172
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_space_pawn.uasset" 173
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/endlessMat/M_Glow_enemy_Inst.uasset" 174
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_projectile_enemybase1.uasset" 175
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_projectile_enemy1.uasset" 176
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Spark_Core.uasset" 177
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_Spark.uasset" 178
-"E:/epic/project/MyProject3/Content/astronaut/MobileStarterContent/Particles/P_Sparks.uasset" 179
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/textures/T_plane_N.uasset" 180
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/materials/M_PlaneGlass.uasset" 181
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/textures/T_Wall01_AO.uasset" 182
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/textures/T_Wall01_BC.uasset" 183
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/textures/T_Wall01_MT.uasset" 184
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/textures/T_Wall01_N.uasset" 185
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/textures/T_Wall01_R.uasset" 186
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/materials/M_Wall01.uasset" 187
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/textures/T_plane_AO.uasset" 188
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/textures/T_plane_BC.uasset" 189
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/textures/T_plane_MT.uasset" 190
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/textures/T_plane_R.uasset" 191
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/materials/MI_Plane.uasset" 192
-"E:/epic/project/MyProject3/Content/astronaut/scifi_kitbash/meshes/SM_Plane.uasset" 193
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/EnemyShot.uasset" 194
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/Explosion.uasset" 195
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/enemies/Enemy_base.uasset" 196
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/enemies/Asteroid.uasset" 197
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/Flat/M_Flat.uasset" 198
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/Flat/M_FlatBG_I.uasset" 199
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/Glow_mat/M_Glow.uasset" 200
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/Glow_mat/M_GlowProjectile.uasset" 201
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/health_pack/pack_tex.uasset" 202
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/BOSS_attack.uasset" 203
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Elven_Harmonies.uasset" 204
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/ElvenHarmonies.uasset" 205
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Elven_Harmonies__no_percussion_.uasset" 206
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/ElvenHarmoniesNoPerc.uasset" 207
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Elven_Realm.uasset" 208
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/ElvenRealm.uasset" 209
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Enchanted_Forest.uasset" 210
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/EnchantedForest.uasset" 211
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Epic_Fantasy.uasset" 212
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/EpicFantasy.uasset" 213
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Fantasy_Adventure.uasset" 214
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/FantasyAdventure.uasset" 215
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Harp_of_Chronos.uasset" 216
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/HarpOfChronos.uasset" 217
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Land_of_Mystery.uasset" 218
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/LandOfMystery.uasset" 219
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Magical_Fantasy.uasset" 220
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/MagicalFantasy.uasset" 221
-"E:/epic/project/MyProject3/Content/part2/enemy_AI/MoveTo.uasset" 222
-"E:/epic/project/MyProject3/Content/part2/motherShip/Untitled.uasset" 223
-"E:/epic/project/MyProject3/Content/part2/enemy_AI/AIBB.uasset" 224
-"E:/epic/project/MyProject3/Content/part2/enemy_AI/Focus.uasset" 225
-"E:/epic/project/MyProject3/Content/part2/gamemode_PC/SP_GS.uasset" 226
-"E:/epic/project/MyProject3/Content/part2/player_projectiles/proj_player.uasset" 227
-"E:/epic/project/MyProject3/Content/part2/motherShip/Material_001.uasset" 228
-"E:/epic/project/MyProject3/Content/part2/motherShip/mothersShip_PhysicsAsset.uasset" 229
-"E:/epic/project/MyProject3/Content/part2/motherShip/mothersShip_Skeleton.uasset" 230
-"E:/epic/project/MyProject3/Content/part2/motherShip/mothersShip.uasset" 231
-"E:/epic/project/MyProject3/Content/part2/motherShip/MotherShip.uasset" 232
-"E:/epic/project/MyProject3/Content/part2/spaceship_pawn/ShipFighter.uasset" 233
-"E:/epic/project/MyProject3/Content/part2/gamemode_PC/PC_Space.uasset" 234
-"E:/epic/project/MyProject3/Content/part2/UI/GameOver3D.uasset" 235
-"E:/epic/project/MyProject3/Content/part2/UI/GameWon3D.uasset" 236
-"E:/epic/project/MyProject3/Content/part2/UI/Overlay.uasset" 237
-"E:/epic/project/MyProject3/Content/part2/gamemode_PC/GM_Space.uasset" 238
-"E:/epic/project/MyProject3/Content/part2/spaceship_pawn/BaseShip.uasset" 239
-"E:/epic/project/MyProject3/Content/part2/player_projectiles/base_projectile.uasset" 240
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/Glow_mat/M_GlowPlayerBody.uasset" 241
-"E:/epic/project/MyProject3/Content/part2/player_projectiles/enemyproj.uasset" 242
-"E:/epic/project/MyProject3/Content/part2/enemy_AI/Shoot.uasset" 243
-"E:/epic/project/MyProject3/Content/part2/enemy_AI/NewBehaviorTreeAI.uasset" 244
-"E:/epic/project/MyProject3/Content/part2/enemy_AI/AICont.uasset" 245
-"E:/epic/project/MyProject3/Content/part2/spaceship_enemy/enemyturretClass.uasset" 246
-"E:/epic/project/MyProject3/Content/part2/spaceship_enemy/BaseShipEnemy.uasset" 247
-"E:/epic/project/MyProject3/Content/part2/spaceship_enemy/turre6t.uasset" 248
-"E:/epic/project/MyProject3/Content/part2/spaceship_enemy/turret.uasset" 249
-"E:/epic/project/MyProject3/Content/part2/spaceship_enemy/BaseShipEnemy_Child.uasset" 250
-"E:/epic/project/MyProject3/Content/part2/spaceship_pawn/Ship_Capital.uasset" 251
-"E:/epic/project/MyProject3/Content/part2/spaceship_pawn/Target.uasset" 252
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 253
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 254
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Architecture/T_MeterGrid_01_M.uasset" 255
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Architecture/M_CycWall_01.uasset" 256
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Architecture/M_CycRoom_01.uasset" 257
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Architecture/SM_CycRoom_01.uasset" 258
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/HDRI/skate_park_2k.uasset" 259
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 260
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/MaterialFunctions/NormalStrength.uasset" 261
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/MaterialFunctions/SpecularMapSwitch.uasset" 262
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Textures/rocky_and_sandy_ground_Ambient_Occlusion.uasset" 263
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Textures/rocky_and_sandy_ground_Base_Color.uasset" 264
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Textures/rocky_and_sandy_ground_Normal.uasset" 265
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Textures/rocky_and_sandy_ground_Roughness.uasset" 266
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Materials/Example_Rock.uasset" 267
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Materials/Example_Rock_Inst.uasset" 268
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Materials/Example_Terrain.uasset" 269
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Materials/Example_Terrain_Inst.uasset" 270
-"../../../Engine/Content/MapTemplates/Sky/T_Sky_Stars.uasset" 271
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Materials/M_Procedural_Sky_MASTER.uasset" 272
-"../../../Engine/Content/MapTemplates/Sky/T_UDK_Sky_CloudMask01_N.uasset" 273
-"../../../Engine/Content/MapTemplates/T_UDK_Sky_CloudMask03.uasset" 274
-"../../../Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset" 275
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Materials/M_Procedural_Sky_MASTER_Inst.uasset" 276
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Textures/T_UDK_Sky_CloudMask01_N.uasset" 277
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Maps/LevelContent/Textures/T_UDK_Sky_CloudMask03.uasset" 278
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 279
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BakedNormal_SimpleAdd.uasset" 280
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/MaterialFunctions/EmmissiveMapSwitch.uasset" 281
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/MaterialFunctions/ARME_Maps.uasset" 282
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/Templates/D.uasset" 283
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/Templates/DA.uasset" 284
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/Templates/N.uasset" 285
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/-ARM_Master.uasset" 286
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/cliff_D.uasset" 287
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/cliff_N.uasset" 288
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/cliff_ORM.uasset" 289
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/rock_pocks.uasset" 290
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/cliff_mat.uasset" 291
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/l_plants_ARM.uasset" 292
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/l_plants_D.uasset" 293
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/l_plants_N.uasset" 294
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/l_plants_mat.uasset" 295
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/-ARM_Opacity_Master.uasset" 296
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/s_plants_ARM.uasset" 297
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/s_plants_DO.uasset" 298
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/s_plants_N.uasset" 299
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/s_plant_mat.uasset" 300
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/Templates/E.uasset" 301
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/Templates/H.uasset" 302
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 303
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 304
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 305
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 306
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 307
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 308
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 309
-"../../../Engine/Content/BasicShapes/Cone.uasset" 310
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 311
-"../../../Engine/Content/BasicShapes/Plane.uasset" 312
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 313
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 314
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 315
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 316
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 317
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 318
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 319
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 320
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 321
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 322
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 323
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 324
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 325
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 326
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 327
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 328
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 329
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 330
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 331
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 332
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 333
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 334
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 335
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 336
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 337
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 338
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 339
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 340
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 341
-"../../../Engine/Content/EditorResources/S_Note.uasset" 342
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 343
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 344
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 345
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 346
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 347
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 348
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 349
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 350
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 351
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 352
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 353
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 354
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 355
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 356
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 357
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 358
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 359
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 360
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 361
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 362
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 363
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 364
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 365
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 366
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 367
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 368
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 369
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 370
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 371
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 372
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 373
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 374
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 375
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 376
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 377
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 378
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 379
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 380
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 381
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 382
-"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 383
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 384
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 385
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 386
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 387
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 388
-"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 389
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 390
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 391
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 392
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 393
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 394
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 395
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 396
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 397
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 398
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 399
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 400
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 401
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 402
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 403
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 404
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 405
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 406
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 407
-"../../../Engine/Content/EngineResources/Black.uasset" 408
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 409
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 410
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 411
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 412
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 413
-"../../../Engine/Content/EngineSounds/Master.uasset" 414
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 415
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 416
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 417
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 418
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 419
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 420
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 421
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 422
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 423
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 424
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 425
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 426
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 427
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 428
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 429
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 430
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 431
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 432
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 433
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 434
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 435
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 436
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 437
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 438
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 439
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 440
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 441
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 442
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 443
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 444
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 445
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 446
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 447
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 448
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 449
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 450
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 451
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 452
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 453
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 454
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 455
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 456
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 457
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 458
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 459
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 460
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 461
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 462
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 463
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 464
-"E:/epic/project/MyProject3/Content/astronaut/SkySphere/SpaceSc.uasset" 465
-"E:/epic/project/MyProject3/Content/astronaut/SkySphere/SkyBoxMat.uasset" 466
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 467
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 468
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 469
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 470
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 471
-"E:/epic/project/MyProject3/Content/astronaut/SkySphere/SkyBoxSpace.uasset" 472
-"E:/epic/project/MyProject3/Content/astronaut/start.uasset" 473
-"E:/epic/project/MyProject3/Content/astronaut/star.uasset" 474
-"E:/epic/project/MyProject3/Content/astronaut/MissionStart_BuiltData.uasset" 475
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 476
-"E:/epic/project/MyProject3/Content/astronaut/Main_Menu.uasset" 477
-"E:/epic/project/MyProject3/Content/astronaut/MissionStart.umap" 478
-"E:/epic/project/MyProject3/Content/astronaut/mesh_astronaut/ThirdPersonGameMode.uasset" 479
-"E:/epic/project/MyProject3/Content/astronaut/Planet_BuiltData.uasset" 480
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/l_rocks_ARM.uasset" 481
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/l_rocks_D.uasset" 482
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/l_rocks_N.uasset" 483
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/l_rocks_mat.uasset" 484
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 485
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/trees_ARM.uasset" 486
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/trees_DO.uasset" 487
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/trees_N.uasset" 488
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/tree_mat.uasset" 489
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Meshes/tree_01.uasset" 490
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Meshes/tree_02.uasset" 491
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/bones_ARM.uasset" 492
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/bones_D.uasset" 493
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Textures/bones_N.uasset" 494
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Materials/bones_mat.uasset" 495
-"E:/epic/project/MyProject3/Content/StylizedDesertEnv/Meshes/tree_04.uasset" 496
-"E:/epic/project/MyProject3/Content/astronaut/Planet.umap" 497
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/health_pack/Antenae.uasset" 498
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/health_pack/MainPack.uasset" 499
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/health_pack/Material.uasset" 500
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/health_pack/pack.uasset" 501
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/enemies/Asteroid1.uasset" 502
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/Glow_mat/M_GlowPlayerArmour.uasset" 503
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/enemies/Enemy_1.uasset" 504
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/BOSS_attack1.uasset" 505
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/BOSS_attack2.uasset" 506
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_projectile_enemy2.uasset" 507
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/enemies/Enemy_2.uasset" 508
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/logic/EnemySpawner.uasset" 509
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/enemies/Block.uasset" 510
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/Level_game_BuiltData.uasset" 511
-"../../../Engine/Content/EditorLandscapeResources/GizmoTexture.uasset" 512
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/hqdefault.uasset" 513
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/M_Space_Background.uasset" 514
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/Flat/M_FlatWall_I.uasset" 515
-"../../../Engine/Content/BasicShapes/Cube.uasset" 516
-"E:/epic/project/MyProject3/Content/astronaut/spaceship_minigame/Level_game.umap" 517
-"E:/epic/project/MyProject3/Content/part2/3DPart_BuiltData.uasset" 518
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 519
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 520
-"E:/epic/project/MyProject3/Content/part2/3DPart.umap" 521
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 522
-"../../../Engine/Content/Maps/Entry.umap" 523
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/PS_AmbientDust.uasset" 0
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/materials/M_LightGlow.uasset" 1
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/Geometry/Meshes/CubeMaterial.uasset" 2
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/Geometry/Meshes/1M_Cube_Chamfer.uasset" 3
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/Geometry/Meshes/TemplateFloor.uasset" 4
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 5
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/walk/walking_Skeleton.uasset" 6
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/idle/astronaut_idle.uasset" 7
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/run/running.uasset" 8
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/walk/walking_Anim.uasset" 9
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/walk/BLend_astro.uasset" 10
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/walk/Animate.uasset" 11
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/material/AmbientOcclusionMap.uasset" 12
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/material/Color.uasset" 13
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/material/Material_Roughness_001.uasset" 14
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/material/Material_Specular.uasset" 15
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/material/NormalMap.uasset" 16
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/material/Material.uasset" 17
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/walking_PhysicsAsset.uasset" 18
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/walking.uasset" 19
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/Astronaut1.uasset" 20
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/material/Colo2r.uasset" 21
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/material/Material2.uasset" 22
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/walking2.uasset" 23
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/Astronaut2.uasset" 24
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/material/Color3.uasset" 25
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/material/Material3.uasset" 26
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/walking3.uasset" 27
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/Astronaut3.uasset" 28
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 29
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/End_of_Demo.uasset" 30
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/CharSel.uasset" 31
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh/CharSel.uasset" 32
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/material/SpecularMap.uasset" 33
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Dust_Particle_D.uasset" 34
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset" 35
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/P_Ambient_Dust.uasset" 36
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Fire_SubUV.uasset" 37
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" 38
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset" 39
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 40
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset" 41
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" 42
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" 43
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset" 44
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/P_Fire.uasset" 45
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/P_Smoke.uasset" 46
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 47
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 48
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 49
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset" 50
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset" 51
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset" 52
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset" 53
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset" 54
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 55
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 56
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 57
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 58
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 59
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Bush_D.uasset" 60
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Bush_N.uasset" 61
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset" 62
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset" 63
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Chair_M.uasset" 64
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Chair_N.uasset" 65
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Checker_Noise_M.uasset" 66
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 67
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 68
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 69
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset" 70
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset" 71
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 72
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 73
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 74
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset" 75
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset" 76
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset" 77
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset" 78
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset" 79
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset" 80
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset" 81
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset" 82
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 83
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset" 84
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Door_M.uasset" 85
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Door_N.uasset" 86
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Frame_M.uasset" 87
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Frame_N.uasset" 88
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Gradinet_01.uasset" 89
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ground_Grass_D.uasset" 90
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ground_Grass_N.uasset" 91
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset" 92
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset" 93
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_ground_Moss_D.uasset" 94
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Ground_Moss_N.uasset" 95
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Lamp_M.uasset" 96
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Lamp_N.uasset" 97
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_MacroVariation.uasset" 98
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset" 99
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Copper_D.uasset" 100
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Gold_D.uasset" 101
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Gold_N.uasset" 102
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Rust_D.uasset" 103
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Rust_N.uasset" 104
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Steel_D.uasset" 105
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Metal_Steel_N.uasset" 106
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset" 107
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_RockMesh_M.uasset" 108
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_RockMesh_N.uasset" 109
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset" 110
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset" 111
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 112
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset" 113
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset" 114
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Slate_D.uasset" 115
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Slate_N.uasset" 116
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 117
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Shelf_M.uasset" 118
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Shelf_N.uasset" 119
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Single_Tile_N.uasset" 120
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Statue_M.uasset" 121
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Statue_N.uasset" 122
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_TableRound_M.uasset" 123
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_TableRound_N.uasset" 124
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Tech_Dot_M.uasset" 125
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Tech_Dot_N.uasset" 126
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 127
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 128
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Tech_Panel_M.uasset" 129
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Tech_Panel_N.uasset" 130
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Water_M.uasset" 131
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Water_N.uasset" 132
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 133
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 134
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 135
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Oak_D.uasset" 136
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Oak_N.uasset" 137
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Pine_D.uasset" 138
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Pine_N.uasset" 139
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset" 140
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset" 141
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/Gradient.uasset" 142
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/m_flare_03.uasset" 143
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/M_Pixel_Cube_Particle.uasset" 144
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/endlessMat/T_Space.uasset" 145
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/endlessMat/T_Space_Mat.uasset" 146
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/endlessMat/T_sunflare.uasset" 147
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/enemies/Shake_B.uasset" 148
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/enemies/Shake_S.uasset" 149
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/endlessMat/M_Glow.uasset" 150
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/endlessMat/M_Glow_projectile1_player.uasset" 151
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/Geometry/Meshes/1M_Cube.uasset" 152
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_projectile_playerbase.uasset" 153
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_projectile_1.uasset" 154
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_projectile_2.uasset" 155
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/SPC_Cont.uasset" 156
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/GameWon.uasset" 157
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/Tutorial.uasset" 158
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/WidgetSPC.uasset" 159
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_space_GM.uasset" 160
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Burst_M.uasset" 161
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_Burst.uasset" 162
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Explosion_SubUV.uasset" 163
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset" 164
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/m_flare_01.uasset" 165
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset" 166
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/P_Explosion.uasset" 167
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/GameOver.uasset" 168
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/Shot.uasset" 169
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/spaceship_pawn/pixil-frame-0.uasset" 170
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/spaceship_pawn/Material.uasset" 171
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/spaceship_pawn/nav.uasset" 172
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_space_pawn.uasset" 173
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/endlessMat/M_Glow_enemy_Inst.uasset" 174
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_projectile_enemybase1.uasset" 175
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_projectile_enemy1.uasset" 176
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/textures/T_plane_N.uasset" 177
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/materials/M_PlaneGlass.uasset" 178
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/textures/T_Wall01_AO.uasset" 179
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/textures/T_Wall01_BC.uasset" 180
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/textures/T_Wall01_MT.uasset" 181
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/textures/T_Wall01_N.uasset" 182
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/textures/T_Wall01_R.uasset" 183
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/materials/M_Wall01.uasset" 184
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/textures/T_plane_AO.uasset" 185
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/textures/T_plane_BC.uasset" 186
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/textures/T_plane_MT.uasset" 187
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/textures/T_plane_R.uasset" 188
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/materials/MI_Plane.uasset" 189
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/emeny/meshes/enemy_ship.uasset" 190
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Textures/T_Spark_Core.uasset" 191
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/Materials/M_Spark.uasset" 192
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MobileStarterContent/Particles/P_Sparks.uasset" 193
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/EnemyShot.uasset" 194
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/Explosion.uasset" 195
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/enemies/Enemy_base.uasset" 196
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/enemies/Asteroid.uasset" 197
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/Flat/M_Flat.uasset" 198
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/Flat/M_FlatBG_I.uasset" 199
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/Glow_mat/M_Glow.uasset" 200
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/Glow_mat/M_GlowProjectile.uasset" 201
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/health_pack/pack_tex.uasset" 202
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/BOSS_attack.uasset" 203
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Elven_Harmonies.uasset" 204
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/ElvenHarmonies.uasset" 205
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Elven_Harmonies__no_percussion_.uasset" 206
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/ElvenHarmoniesNoPerc.uasset" 207
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Elven_Realm.uasset" 208
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/ElvenRealm.uasset" 209
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Enchanted_Forest.uasset" 210
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/EnchantedForest.uasset" 211
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Epic_Fantasy.uasset" 212
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/EpicFantasy.uasset" 213
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Fantasy_Adventure.uasset" 214
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/FantasyAdventure.uasset" 215
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Harp_of_Chronos.uasset" 216
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/HarpOfChronos.uasset" 217
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Land_of_Mystery.uasset" 218
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/LandOfMystery.uasset" 219
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/audio/Magical_Fantasy.uasset" 220
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/sounds/FantasyOrchestral/cues/MagicalFantasy.uasset" 221
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/enemy_AI/MoveTo.uasset" 222
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/motherShip/Untitled.uasset" 223
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/enemy_AI/AIBB.uasset" 224
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/enemy_AI/Focus.uasset" 225
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/gamemode_PC/SP_GS.uasset" 226
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/player_projectiles/proj_player.uasset" 227
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/motherShip/Material_001.uasset" 228
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/motherShip/mothersShip_PhysicsAsset.uasset" 229
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/motherShip/mothersShip_Skeleton.uasset" 230
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/motherShip/mothersShip.uasset" 231
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/motherShip/MotherShip.uasset" 232
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/spaceship_pawn/ShipFighter.uasset" 233
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/gamemode_PC/PC_Space.uasset" 234
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/UI/GameOver3D.uasset" 235
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/UI/GameWon3D.uasset" 236
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/UI/Overlay.uasset" 237
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/gamemode_PC/GM_Space.uasset" 238
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/spaceship_pawn/BaseShip.uasset" 239
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/player_projectiles/base_projectile.uasset" 240
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/Glow_mat/M_GlowPlayerBody.uasset" 241
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/player_projectiles/enemyproj.uasset" 242
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/enemy_AI/Shoot.uasset" 243
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/enemy_AI/NewBehaviorTreeAI.uasset" 244
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/enemy_AI/AICont.uasset" 245
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/spaceship_enemy/enemyturretClass.uasset" 246
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/spaceship_enemy/BaseShipEnemy.uasset" 247
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/spaceship_enemy/turre6t.uasset" 248
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/spaceship_enemy/turret.uasset" 249
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/spaceship_enemy/BaseShipEnemy_Child.uasset" 250
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/spaceship_pawn/Ship_Capital.uasset" 251
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/spaceship_pawn/Target.uasset" 252
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 253
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 254
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 255
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 256
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 257
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 258
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 259
+"../../../Engine/Content/BasicShapes/Cone.uasset" 260
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 261
+"../../../Engine/Content/BasicShapes/Plane.uasset" 262
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 263
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 264
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 265
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 266
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 267
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 268
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 269
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 270
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 271
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 272
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 273
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 274
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 275
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 276
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 277
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 278
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 279
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 280
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 281
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 282
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 283
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 284
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 285
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 286
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 287
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 288
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 289
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 290
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 291
+"../../../Engine/Content/EditorResources/S_Note.uasset" 292
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 293
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 294
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 295
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 296
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 297
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 298
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 299
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 300
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 301
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 302
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 303
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 304
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 305
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 306
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 307
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 308
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 309
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 310
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 311
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 312
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 313
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 314
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 315
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 316
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 317
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 318
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 319
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 320
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 321
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 322
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 323
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 324
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 325
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 326
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 327
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 328
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 329
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 330
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 331
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 332
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 333
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 334
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 335
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 336
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 337
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 338
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 339
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 340
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 341
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 342
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 343
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 344
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 345
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 346
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 347
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 348
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 349
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 350
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 351
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 352
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 353
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 354
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 355
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 356
+"../../../Engine/Content/EngineResources/Black.uasset" 357
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 358
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 359
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 360
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 361
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 362
+"../../../Engine/Content/EngineSounds/Master.uasset" 363
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 365
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 366
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 367
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 368
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 369
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 370
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 371
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 372
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 373
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 374
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 375
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 376
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 377
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 378
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 379
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 380
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 381
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 382
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 383
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 384
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 385
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 386
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 387
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 388
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 389
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 390
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 391
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 392
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 393
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 394
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 395
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 396
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 397
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 398
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 399
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 400
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 401
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 402
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 403
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 404
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 405
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 406
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 407
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 408
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 409
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 410
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 411
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 412
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 413
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/SkySphere/SpaceSc.uasset" 414
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/SkySphere/SkyBoxMat.uasset" 415
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 416
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 417
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 418
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 419
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 420
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/SkySphere/SkyBoxSpace.uasset" 421
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/start.uasset" 422
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/star.uasset" 423
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MissionStart_BuiltData.uasset" 424
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 425
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/Main_Menu.uasset" 426
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/MissionStart.umap" 427
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/mesh_astronaut/ThirdPersonGameMode.uasset" 428
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/Planet_BuiltData.uasset" 429
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/download__1_.uasset" 430
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/land.uasset" 431
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 432
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/Planet.umap" 433
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/Glow_mat/M_GlowPlayerArmour.uasset" 434
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/enemies/Enemy_1.uasset" 435
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/BOSS_attack1.uasset" 436
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/BOSS_attack2.uasset" 437
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/BP_projectile_enemy2.uasset" 438
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/enemies/Enemy_2.uasset" 439
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/health_pack/Antenae.uasset" 440
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/health_pack/MainPack.uasset" 441
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/health_pack/Material.uasset" 442
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/health_pack/pack.uasset" 443
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/enemies/healthpack.uasset" 444
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/logic/EnemySpawner.uasset" 445
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/enemies/Block.uasset" 446
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/Level_game_BuiltData.uasset" 447
+"../../../Engine/Content/EditorLandscapeResources/GizmoTexture.uasset" 448
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/hqdefault.uasset" 449
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/M_Space_Background.uasset" 450
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/Flat/M_FlatWall_I.uasset" 451
+"../../../Engine/Content/BasicShapes/Cube.uasset" 452
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/astronaut/spaceship_minigame/Level_game.umap" 453
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/3DPart_BuiltData.uasset" 454
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 455
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 456
+"../../../../../../Users/Theodore/Documents/GitHub/Spacy/Cod Sursa/MyProject3/Content/part2/3DPart.umap" 457
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 458
+"../../../Engine/Content/Maps/Entry.umap" 459
